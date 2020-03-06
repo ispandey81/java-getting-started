@@ -23,6 +23,10 @@ public class Response {
 	public void setSum(Integer sum) {
 		this.sum = sum;
 	}
+
+	public void toString() {
+		System.out.println("Overriding toString");
+	}
 	
 	
 }
