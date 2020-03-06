@@ -24,9 +24,7 @@ public class Response {
 		this.sum = sum;
 	}
 
-	public void toString() {
-		System.out.println("Overriding toString");
-	}
+	
 	
 	
 }
